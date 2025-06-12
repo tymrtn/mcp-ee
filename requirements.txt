@@ -1,0 +1,13 @@
+# Python dependencies for ExpressionEngine MCP Server
+
+# HTTP client
+aiohttp
+
+# MCP SDK
+modelcontextprotocol
+
+# Environment variables
+python-dotenv
+
+# Logging
+colorlog
